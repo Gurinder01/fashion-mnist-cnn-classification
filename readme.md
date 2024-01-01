@@ -11,7 +11,7 @@ Before executing the code, ensure the following software and libraries are insta
 - Python 3
 - TensorFlow 2.x
 - Jupyter Notebook
-- Required Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Required Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 
 If you do not have these components, please install them before proceeding to the execution steps.
 
@@ -21,7 +21,7 @@ If you do not have these components, please install them before proceeding to th
 
 2. **Install Jupyter Notebook:** Open a command prompt or terminal and run the following command: `pip install jupyter`.
 
-3. **Install Required Libraries:** Execute the following command to install necessary libraries: `pip install numpy pandas matplotlib seaborn scikit-learn tensorflow`.
+3. **Install Required Libraries:** Execute the following command to install necessary libraries: `pip install numpy pandas matplotlib seaborn scikit-learn tensorflow keras`.
 
 ## Data File
 
