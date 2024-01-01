@@ -37,7 +37,7 @@ fashion_mnist = tf.keras.datasets.fashion_mnist
 
 To execute the project, follow the steps below:
 
-1. **Download the project files:** Clone or download the repository containing the Jupyter Notebook file (Fashion_MNIST_CNN.ipynb) and any other necessary files.
+1. **Download the project files:** Clone or download the repository containing the Jupyter Notebook file (Fashion_MNIST_CNN.ipynb).
 
 2. **Launch Jupyter Notebook:** Open a command prompt or terminal and navigate to the directory containing the project files. Run the command jupyter notebook to open the Jupyter Notebook interface in your web browser.
 
